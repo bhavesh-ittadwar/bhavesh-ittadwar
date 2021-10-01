@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhavesh-ittadwar
 - 👀 I’m interested in web development, algorithms, data structures.
 - 🌱 I’m currently learning front-end technologies & advance JavaScript.
-- 💞️ I’m looking to collaborate on a front-end framework like ReactJS (or VueJS) & any work around HTML, css, js.
+- 💞️ I’m looking to collaborate around any work on a front-end framework like ReactJS (or VueJS) & around HTML, css, js.
 - 📫 How to reach me ? - drop me a mail on bhavesh.ittadwar26@gmail.com :)
 
 <!---
